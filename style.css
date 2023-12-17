@@ -100,7 +100,7 @@
 }
 .container .content .bannerText p{
 	color: #fff;
-	font-size: 18px;
+	font-size: 20px;
 	margin: 20px 0;
 }
 .controls {
@@ -231,7 +231,7 @@
 .air p
 {
 	color: #777;
-	font-size: 14px;
+	font-size: 20px;
 	font-weight: 300;
 	line-height: 22px;
 	padding: 10px;
@@ -275,7 +275,7 @@
 .water p
 {
 	color: #777;
-	font-size: 14px;
+	font-size: 20px;
 	font-weight: 300;
 	line-height: 22px;
 	padding: 10px;
@@ -318,7 +318,7 @@
 .land p
 {
 	color: #777;
-	font-size: 14px;
+	font-size: 20px;
 	font-weight: 300;
 	line-height: 22px;
 	padding: 10px;
